@@ -1,4 +1,4 @@
-# TinDog
+# TinDog https://onionie.github.io/TinDog/
 A start up landing page for a fictional dating application named TinDog. TinDog allows dog owners to help their doggie friends find soulmates. A user is able to scroll and click through to view different sections of the webpage.
 
 # What I learned and Used
