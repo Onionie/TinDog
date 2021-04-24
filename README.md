@@ -14,8 +14,8 @@ A start up landing page for a fictional dating application named TinDog. TinDog 
 - Font Awesome
 
 # Screenshots
-<img src = "https://github.com/Onionie/TinDog/blob/main/images/1.PNG" width = "800">
-<img src = "https://github.com/Onionie/TinDog/blob/main/images/2.PNG" width = "800">
-<img src = "https://github.com/Onionie/TinDog/blob/main/images/3.PNG" width = "800">
-<img src = "https://github.com/Onionie/TinDog/blob/main/images/4.PNG" width = "800">
-<img src = "https://github.com/Onionie/TinDog/blob/main/images/5.PNG" width = "800">
+<img src = "https://github.com/Onionie/TinDog/blob/main/images/1.PNG" width = "950">
+<img src = "https://github.com/Onionie/TinDog/blob/main/images/2.PNG" width = "950">
+<img src = "https://github.com/Onionie/TinDog/blob/main/images/3.PNG" width = "950">
+<img src = "https://github.com/Onionie/TinDog/blob/main/images/4.PNG" width = "950">
+<img src = "https://github.com/Onionie/TinDog/blob/main/images/5.PNG" width = "950">
